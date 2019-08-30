@@ -3,7 +3,6 @@
 # Loom SDK for Cocos Creator
 
 ## Content:
-- English
  * [Prerequisites](#prerequisites)
  * [Loom Cocos SDK](#loom-cocos-sdk)
  * [Generate LoomJS SDK](#generate-loomjs-sdk)

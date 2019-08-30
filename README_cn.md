@@ -1,8 +1,8 @@
-[英文](https://github.com/Cocos-BCX/cocos-sdk/blob/master/readme.md)
+[English](https://github.com/Cocos-BCX/cocos-sdk/blob/master/readme.md)
 
 # Loom SDK for Cocos Creator
 
-## Content:
+## 目录:
 
  * [环境依赖](#环境依赖)
  * [Loom Cocos SDK](#loom-cocos-sdk-介绍)
