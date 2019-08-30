@@ -1,4 +1,4 @@
-[英文](https://github.com/chandlerette/cocos-sdk/blob/master/readme.md)
+[英文](https://github.com/Cocos-BCX/cocos-sdk/blob/master/readme.md)
 
 # Loom SDK for Cocos Creator
 
