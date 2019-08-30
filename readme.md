@@ -36,11 +36,11 @@
 
 Loom global structure diagram
 
-![](./images/Loom-Cocos-SDK.png)
+![](https://github.com/Cocos-BCX/cocos-sdk/tree/master/images/Loom-Cocos-SDK.png)
 
 Loom Cocos SDK structure diagram
 
-![](./images/loom-cocos-sdk-struct.png)
+![](https://github.com/Cocos-BCX/cocos-sdk/tree/master/images/loom-cocos-sdk-struct.png)
 
 `Loom-Cocos-SDK` have same api, same protobuf, similar contract with `loom-js`.
 
@@ -102,7 +102,7 @@ you can download `Cocos Creator` from [here](http://www.cocos.com/creator) , and
   e.g. `sample/loomDemoForCreator` use  [setscore.proto](https://github.com/loomnetwork/phaser-sdk-demo/blob/master/src/assets/protobuff/setscore.proto), and related [setscore_pb.js](https://github.com/loomnetwork/phaser-sdk-demo/blob/master/src/assets/protobuff/setscore_pb.js)
 3. write yur own contract as requirements of your game, and serailezse your data with `setscore_pb.js`, and send to Loom Blockchain, take a look at [SimpleContract](https://github.com/loomnetwork/phaser-sdk-demo/blob/master/src/SimpleContract.js)
 
-![](./images/script_loom_folder.png)
+![](https://github.com/Cocos-BCX/cocos-sdk/tree/master/images/script_loom_folder.png)
 
 4. invoke api of your contract at suitable position.
 5. Run
@@ -142,11 +142,11 @@ Test Steps
 
 Loom 全局结构如下:
 
-![](./images/Loom-Cocos-SDK.png)
+![](https://github.com/Cocos-BCX/cocos-sdk/tree/master/images/Loom-Cocos-SDK.png)
 
 Loom Cocos SDK 软件结构如下:
 
-![](./images/loom-cocos-sdk-struct.png)
+![](https://github.com/Cocos-BCX/cocos-sdk/tree/master/images/loom-cocos-sdk-struct.png)
 
 由图可见, `Loom-Cocos-SDK` 与 `loom-js` 使用相同的API, 相同的 `protobuf` 文件, 基本类似的合约写法。
 
@@ -205,7 +205,7 @@ Cocos Creator基于开源框架Cocos2d-x，实现了一体化、可扩展、可�
   e.g. 本例中使用的是 [setscore.proto](https://github.com/loomnetwork/phaser-sdk-demo/blob/master/src/assets/protobuff/setscore.proto), 及对应生成的 [setscore_pb.js](https://github.com/loomnetwork/phaser-sdk-demo/blob/master/src/assets/protobuff/setscore_pb.js)
 3. 编写适应自己游戏需求的合约, 使用上一步中的 `setscore_pb.js` 将数据序列化, 并将数据发往 `DappChain`, 参见  [SimpleContract](https://github.com/loomnetwork/phaser-sdk-demo/blob/master/src/SimpleContract.js)
 
-![](./images/script_loom_folder.png)
+![](https://github.com/Cocos-BCX/cocos-sdk/tree/master/images/script_loom_folder.png)
 
 4. 在你的游戏中需要的位置调用上一步中的接口.
 5. 运行, 检查
